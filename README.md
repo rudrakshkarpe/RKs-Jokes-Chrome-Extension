@@ -1,2 +1,2 @@
 # Chrome-Extensions
-Repo for extension development
+_Repo for extension development_
