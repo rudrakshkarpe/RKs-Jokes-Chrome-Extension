@@ -4,4 +4,5 @@
 
 # checklist 
 - [X] completed version 0.0.1
-- [ ] Issues to be fixed
+- [X] Issues to be fixed
+- [X] completed version 0.0.1 💹
