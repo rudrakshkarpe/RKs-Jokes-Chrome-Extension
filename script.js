@@ -1,9 +1,8 @@
 fetch('https://icanhazdadjoke.com/slack')
-    .then(data=>data.json())
-    .then(jokeData =>{
-        const joke = jokeData.attachments[0].text;
-        const jokeElement = document.getElementById('JokeElement');
-        jokeElement.innerHTML = joke;
-        document.body.appendChild(jokeElement);
-    }
-    )
+    .then(data => data.json())
+    .then(jokeData => {
+        const jokeText = jokeData.attachments[0].text;
+        const jokeElement = document.getElementById('jokeElement');
+
+        jokeElement.innerHTML = jokeText;
+    })
