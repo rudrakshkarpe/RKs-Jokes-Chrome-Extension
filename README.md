@@ -7,5 +7,4 @@
 - [X] Issues to be fixed
 - [X] completed version 0.0.1 💹
 - [X] First release published
-- [ ] Develop the release  
-- [ ]
+- [X] Develop the release  
