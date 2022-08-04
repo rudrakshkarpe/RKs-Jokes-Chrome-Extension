@@ -2,9 +2,9 @@
 
 ## _Repo for extension development_
 
-# checklist 
-- [X] completed version 0.0.1
-- [X] Issues to be fixed
-- [X] completed version 0.0.1 💹
-- [X] First release published
-- [X] Develop the release  
+## Installation 
+
+- Clone the repository or you can download the zip file
+- Go to ```chrome extensions```
+- Under ```manage extensions``` turn on the ```Developer mode```
+- Extaract (if downloaded zip) or just drag and drop the entire files to ```Manage Extension``` in the cloned repository.
