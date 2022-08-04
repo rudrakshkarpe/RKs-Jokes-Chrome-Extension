@@ -1,4 +1,4 @@
-# The Jokes (Chrome Extension)
+# RK's Jokes (Chrome Extension)
 
 
 ## Installation 
