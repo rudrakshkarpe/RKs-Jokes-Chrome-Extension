@@ -8,4 +8,4 @@
 - Under ```manage extensions``` turn on the ```Developer mode```
 - Extaract (if downloaded zip) or just drag and drop the entire files to ```Manage Extension``` in the cloned repository.
 
-### _for those you get bored working with multiple tabs and speding half of their day playing on browser playground_
+### _for those who get bore working with multiple tabs and spending half of their day playing on browser playgrounds_
