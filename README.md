@@ -1,6 +1,6 @@
-# Chrome-Extensions
+# The Jokes (Chrome Extension)
 
-## _Repo for extension development_
+## _for those you get bored working with multiple tabs and speding half of their day playing on browser playground_
 
 ## Installation 
 
