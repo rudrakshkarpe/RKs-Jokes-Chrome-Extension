@@ -1,8 +1,8 @@
-# RK's Jokes (Chrome Extension)
+## RK's Jokes (Chrome Extension)
 
 
-## Installation 
-
+### Installation 
+---
 - Clone the repository or you can download the zip file
 - Go to ```chrome extensions```
 - Under ```manage extensions``` turn on the ```Developer mode```
