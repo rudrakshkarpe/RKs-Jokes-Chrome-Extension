@@ -1,7 +1,7 @@
 ## RK's Jokes (Chrome Extension)
 
 
-### Installation 
+### Installation Steps
 ---
 - Clone repository or you can download zip file
 - Go to ```chrome extensions```
